@@ -47,6 +47,13 @@ var questions = [
     c: Kane Williamson `,
     answer: "Mahendra Singh Dhoni",
   },
+  {
+    question: `Which team has won the most number of 50 over ICC world cup?
+    a: India
+    b: Australia
+    c: Pakistan`,
+    answer: "Australia",
+  },
 ];
 for (var i = 0; i < questions.length; i++) {
   var currentQuestion = questions[i];
